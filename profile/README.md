@@ -18,23 +18,23 @@ Waiter
 </br>
 
 ## Demo
-### Store
+### Web
 |                   가게 등록 및 로그인                |                   대기 등록 마감                  |                         가게 설명 수정                      |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | <img src="https://user-images.githubusercontent.com/106878778/215781287-7380228d-eb24-4735-a041-0f7564ab8af5.png" alt="가게 등록 및 로그인" width=70%> | <img src="https://user-images.githubusercontent.com/106878778/215781287-7380228d-eb24-4735-a041-0f7564ab8af5.png" alt="대기 등록 마감" width=70%> | <img src="https://user-images.githubusercontent.com/106878778/215781287-7380228d-eb24-4735-a041-0f7564ab8af5.png" alt="가게 설명 수정" width=70%> |
 
 
-|                         대기자 입장                    |                     대기자 호출                        |                         웨이팅 강제 취소                        |
+|                         대기자 입장                    |                     대기자 호출                        |                         대기 취소                        |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | <img src="https://user-images.githubusercontent.com/106878778/215781287-7380228d-eb24-4735-a041-0f7564ab8af5.png" alt="대기자 입장" width=70%> | <img src="https://user-images.githubusercontent.com/106878778/215781287-7380228d-eb24-4735-a041-0f7564ab8af5.png" alt="대기자 호출" width=70%> | <img src="https://user-images.githubusercontent.com/106878778/215781287-7380228d-eb24-4735-a041-0f7564ab8af5.png" alt="웨이팅 강제 취소" width=70%> |
 
 
 <br/>
 
-### User
+### App
 
 
-|                         회원가입                    |                     로그인                        |                                                 |
+|                         회원가입 및 로그인                   |                     지도                        |                        가게 리스트                         |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | <img src="https://user-images.githubusercontent.com/106878778/215781287-7380228d-eb24-4735-a041-0f7564ab8af5.png" alt="회원가입" width=70%> | <img src="https://user-images.githubusercontent.com/106878778/215781287-7380228d-eb24-4735-a041-0f7564ab8af5.png" alt="로그인" width=70%> | <img src="https://user-images.githubusercontent.com/106878778/215781287-7380228d-eb24-4735-a041-0f7564ab8af5.png" alt="마이페이지" width=70%> |
 
@@ -51,7 +51,7 @@ Waiter
 ## System Architecture
 
 <p align="middle" >
-  <img src="https://user-images.githubusercontent.com/106878778/215961499-42783b5e-9a4b-429a-9c9c-5ce847dd50c9.png" width=90% >
+  <img src="https://user-images.githubusercontent.com/106878778/215961499-42783b5e-9a4b-429a-9c9c-5ce847dd50c9.png" width=100% >
 </p>
 
 <br/>
@@ -165,6 +165,44 @@ Grafana & Prometheus
 -----
 <img width="862" alt="image" src="https://user-images.githubusercontent.com/106878778/215988091-42979ae6-4e39-4f90-a1f7-c3a2bef4ab64.png">
 
+<br/>
+
+
+
+## File Directory
+
+<details>
+<summary> docker </summary>
+<aside>
+
+```
+
+```
+
+</aside>
+</details>
+<details>
+<summary> frontend </summary>
+<aside>
+ 
+```
+
+```
+ 
+</aside>
+</details>
+<details>
+<summary> backend </summary>
+<aside>
+ 
+```
+
+```
+ 
+</aside>
+</details>
+
+<br>
 
 
 ## How to run
