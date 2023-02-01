@@ -51,11 +51,28 @@ Waiter
 ## System Architecture
 
 <p align="middle" >
-  <img src="![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bcbb5b69-6c72-4c47-b7bf-e3788c340aa7/Untitled.png)" width=70% >
+  <img src="https://user-images.githubusercontent.com/106878778/215961499-42783b5e-9a4b-429a-9c9c-5ce847dd50c9.png" width=90% >
 </p>
 
+<br/>
+
+
+
+## ERD
+
+<img width=70% alt="image" src="https://user-images.githubusercontent.com/106878778/215985193-91015ea6-f682-413b-93f0-08773b438d14.png">
 
 <br/>
+
+
+
+## API 
+![1](https://user-images.githubusercontent.com/106878778/215984496-8323f2ca-cd46-4aa8-8964-1edd36ab318c.png)
+![2](https://user-images.githubusercontent.com/106878778/215984549-5689a4be-2e9d-41b1-bdd0-3ddcc570a405.png)
+![3](https://user-images.githubusercontent.com/106878778/215984562-ddd396b6-4364-4e4b-bdb1-0d961d694997.png)
+
+
+</br>
 
 ## Tech Stack
 
@@ -63,7 +80,14 @@ Waiter
 
 <div style="display: flex; align-items: flex-start;">
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="80" height="80" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="80" height="80" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="80" height="80" />
+</div>
+
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="icon" />
+  <img src="https://img.shields.io/badge/reactNative-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="icon" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=black">
 </div>
 
 프론트 엔드 설명<br />
@@ -75,21 +99,20 @@ Waiter
 <div style="display: flex; align-items: flex-start;">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="100" height="100" />
   <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="100" height="100" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="100" height="100" />
 </div>
 
 <div style="display: flex; align-items: flex-start;">
+  <img src="https://img.shields.io/badge/DJANGO_REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray">
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="icon" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="icon" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" alt="icon" />
-  <img src="https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=Redis&logoColor=white" alt="icon" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white">
 </div>
 
-- **Spring Data JPA(Hibernate)**
-- **QueryDSL**
-- **JUnit 5**, **mockito**
-- **SLF4J**
-- **JWT**
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="icon" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=black" alt="icon" />
+  <img src="https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=PostgreSQL&logoColor=black&labelColor=gray" alt="icon" />
+</div>
+
 
 Django로 웹 어플리케이션 서버를 구축하였습니다. <br/>
 Swagger로 API 문서를 작성하여 클라이언트와 소통하였습니다. <br/>
@@ -108,7 +131,13 @@ Swagger로 API 문서를 작성하여 클라이언트와 소통하였습니다. 
 <div style="display: flex; align-items: flex-start;">
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="icon" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="icon" />
+  <img src="https://img.shields.io/badge/Github_Actions-2088FF?style=for-the-badge&logo=Github-Actions&logoColor=black">
+</div>
+
+<div style="display: flex; align-items: flex-start;">
   <img src="https://img.shields.io/badge/FireBase-yellow?style=for-the-badge&logo=firebase&logoColor=white" alt="icon" />
+  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=black">
+  <img src="https://img.shields.io/badge/gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=black">
 </div>
 
 - **Github Actions**
@@ -128,6 +157,14 @@ Swagger로 API 문서를 작성하여 클라이언트와 소통하였습니다. 
 </div>
 
 <br/>
+
+
+## Monitoring
+Grafana & Prometheus
+
+-----
+<img width="862" alt="image" src="https://user-images.githubusercontent.com/106878778/215988091-42979ae6-4e39-4f90-a1f7-c3a2bef4ab64.png">
+
 
 
 ## How to run
