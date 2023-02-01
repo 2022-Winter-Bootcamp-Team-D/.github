@@ -51,7 +51,7 @@ Waiter
 ## System Architecture
 
 <p align="middle" >
-  <img src="https://user-images.githubusercontent.com/106878778/215961499-42783b5e-9a4b-429a-9c9c-5ce847dd50c9.png" width=100% >
+  <img src="https://user-images.githubusercontent.com/106878778/215961499-42783b5e-9a4b-429a-9c9c-5ce847dd50c9.png" width=80% >
 </p>
 
 <br/>
@@ -60,17 +60,19 @@ Waiter
 
 ## ERD
 
-<img width=70% alt="image" src="https://user-images.githubusercontent.com/106878778/215985193-91015ea6-f682-413b-93f0-08773b438d14.png">
-
+<p align="middle" >
+<img width=60% alt="image" src="https://user-images.githubusercontent.com/106878778/215985193-91015ea6-f682-413b-93f0-08773b438d14.png" >
+</p>
+  
 <br/>
 
 
 
 ## API 
-![1](https://user-images.githubusercontent.com/106878778/215984496-8323f2ca-cd46-4aa8-8964-1edd36ab318c.png)
-![2](https://user-images.githubusercontent.com/106878778/215984549-5689a4be-2e9d-41b1-bdd0-3ddcc570a405.png)
-![3](https://user-images.githubusercontent.com/106878778/215984562-ddd396b6-4364-4e4b-bdb1-0d961d694997.png)
 
+<p align="middle" >
+<img width=70% alt="image" src="https://user-images.githubusercontent.com/106878778/215984496-8323f2ca-cd46-4aa8-8964-1edd36ab318c.png" ><img width=70% alt="image" src="https://user-images.githubusercontent.com/106878778/215984549-5689a4be-2e9d-41b1-bdd0-3ddcc570a405.png" ><img width=70% alt="image" src="https://user-images.githubusercontent.com/106878778/215984562-ddd396b6-4364-4e4b-bdb1-0d961d694997.png" >
+</p>
 
 </br>
 
@@ -79,9 +81,9 @@ Waiter
 ### Front-end
 
 <div style="display: flex; align-items: flex-start;">
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="80" height="80" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="80" height="80" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="80" height="80" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="90" height="90" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="90" height="90" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="90" height="90" />
 </div>
 
 <div style="display: flex; align-items: flex-start;">
@@ -97,20 +99,21 @@ Waiter
 ### Back-end
 
 <div style="display: flex; align-items: flex-start;">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="100" height="100" />
-  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="100" height="100" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="90" height="90" />
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="90" height="90" />
 </div>
 
 <div style="display: flex; align-items: flex-start;">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
   <img src="https://img.shields.io/badge/DJANGO_REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray">
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="icon" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white">
 </div>
 
 <div style="display: flex; align-items: flex-start;">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="icon" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=black" alt="icon" />
-  <img src="https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=PostgreSQL&logoColor=black&labelColor=gray" alt="icon" />
+  <img src="https://camo.githubusercontent.com/029c025c6da46b2fa8f15a3fa00261b9045d7b2a87a9692d437ee27b511c6f63/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d466972656261736526636f6c6f723d323232323232266c6f676f3d4669726562617365266c6f676f436f6c6f723d464643413238266c6162656c3d" alt="icon" />
+  <img src="https://img.shields.io/badge/gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=black">
+  <img src="https://camo.githubusercontent.com/95a15266c9b093e9070410fa62c8dcba6611e79edd738e0ded7ec5b52541d6c4/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d506f737467726553514c26636f6c6f723d343136394531266c6f676f3d506f737467726553514c266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="icon" />
 </div>
 
 
@@ -120,24 +123,19 @@ Swagger로 API 문서를 작성하여 클라이언트와 소통하였습니다. 
 
 <br />
 
-### Infra Structure
+### DevOps
 
 <div style="display: flex; align-items: flex-start;">
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="100" height="100" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="100" height="100" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="100" height="100" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="90" height="90" />
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="90" height="90" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="90" height="90" />
 </div>
 
 <div style="display: flex; align-items: flex-start;">
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="icon" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="icon" />
-  <img src="https://img.shields.io/badge/Github_Actions-2088FF?style=for-the-badge&logo=Github-Actions&logoColor=black">
-</div>
-
-<div style="display: flex; align-items: flex-start;">
-  <img src="https://img.shields.io/badge/FireBase-yellow?style=for-the-badge&logo=firebase&logoColor=white" alt="icon" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=black">
-  <img src="https://img.shields.io/badge/gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=black">
+  <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=Amazon-EC2&logoColor=black">
+  <img src="https://img.shields.io/badge/Github_Actions-2088FF?style=for-the-badge&logo=Github-Actions&logoColor=black">
 </div>
 
 - **Github Actions**
@@ -147,11 +145,23 @@ Swagger로 API 문서를 작성하여 클라이언트와 소통하였습니다. 
 
 데브옵스 설명 <br/>
 
-<br />
+<br/>
 
-### Communication
+
+### Monitoring
 
 <div style="display: flex; align-items: flex-start;">
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=black">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=black">
+</div>
+
+<br/>
+
+### ETC
+
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="icon" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=black" alt="icon" />
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="icon" />
   <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" alt="icon" />
 </div>
@@ -162,8 +172,14 @@ Swagger로 API 문서를 작성하여 클라이언트와 소통하였습니다. 
 ## Monitoring
 Grafana & Prometheus
 
------
-<img width="862" alt="image" src="https://user-images.githubusercontent.com/106878778/215988091-42979ae6-4e39-4f90-a1f7-c3a2bef4ab64.png">
+**Prometheus** |**Node exporter** |
+-----|-----
+<img src = "https://user-images.githubusercontent.com/106878778/216139454-b01746b7-dd56-4d8f-87c5-85556edcdd0c.png" width=100%>|<img src = "https://user-images.githubusercontent.com/106878778/216139687-f96101b1-9d1a-4522-8b41-fa49f6c6ba8c.png" width=100%>
+
+
+**Grafana** 
+
+<img src = "https://user-images.githubusercontent.com/106878778/216139834-ccd6947f-da27-47b8-bbda-9f4d80aca02a.png" width="1500px"><img src = "https://user-images.githubusercontent.com/106878778/216139975-ca650869-1637-42c5-ab64-8a1e9094e949.png" width=100%>
 
 <br/>
 
