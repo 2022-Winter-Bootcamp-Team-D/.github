@@ -92,8 +92,6 @@ Waiter
   <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=black">
 </div>
 
-프론트 엔드 설명<br />
-
 <br />
 
 ### Back-end
@@ -116,10 +114,11 @@ Waiter
   <img src="https://camo.githubusercontent.com/95a15266c9b093e9070410fa62c8dcba6611e79edd738e0ded7ec5b52541d6c4/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d506f737467726553514c26636f6c6f723d343136394531266c6f676f3d506f737467726553514c266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="icon" />
 </div>
 
-
+<!--
 Django로 웹 어플리케이션 서버를 구축하였습니다. <br/>
 Swagger로 API 문서를 작성하여 클라이언트와 소통하였습니다. <br/>
 데이터 베이스는 PostgreSQL을 사용하였습니다. <br/>
+-->
 
 <br />
 
@@ -138,13 +137,10 @@ Swagger로 API 문서를 작성하여 클라이언트와 소통하였습니다. 
   <img src="https://img.shields.io/badge/Github_Actions-2088FF?style=for-the-badge&logo=Github-Actions&logoColor=black">
 </div>
 
-- **Github Actions**
-- **AWS EC2**
-- **Prometheus, Grafana**
-- **FireBase**
-
-데브옵스 설명 <br/>
-
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://camo.githubusercontent.com/8d588674b29ef309c92bf8334b879ced4ac7a158a2a71421a6cc6ccd6588e207/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d456c617374696373656172636826636f6c6f723d303035353731266c6f676f3d456c6173746963736561726368266c6f676f436f6c6f723d464646464646266c6162656c3d" >
+  <img src="https://camo.githubusercontent.com/bc69581e96f608f6a632e292f0685e731c084e8ebe6a8dc53651650c7d8870f1/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4c6f67737461736826636f6c6f723d303035353731266c6f676f3d4c6f677374617368266c6f676f436f6c6f723d464646464646266c6162656c3d" >
+</div>
 <br/>
 
 
@@ -176,15 +172,19 @@ Grafana & Prometheus
 -----|-----
 <img src = "https://user-images.githubusercontent.com/106878778/216139454-b01746b7-dd56-4d8f-87c5-85556edcdd0c.png" width=100%>|<img src = "https://user-images.githubusercontent.com/106878778/216139687-f96101b1-9d1a-4522-8b41-fa49f6c6ba8c.png" width=100%>
 
-
-**Grafana** 
-
-<img src = "https://user-images.githubusercontent.com/106878778/216139834-ccd6947f-da27-47b8-bbda-9f4d80aca02a.png" width="1500px"><img src = "https://user-images.githubusercontent.com/106878778/216139975-ca650869-1637-42c5-ab64-8a1e9094e949.png" width=100%>
-
+<table>
+  <tr>
+    <td colspan="2" align="center">Grafana</td>
+  </tr>
+  <tr>
+    <td><img src = "https://user-images.githubusercontent.com/106878778/216139834-ccd6947f-da27-47b8-bbda-9f4d80aca02a.png" width=100%></td>
+    <td><img src = "https://user-images.githubusercontent.com/106878778/216139975-ca650869-1637-42c5-ab64-8a1e9094e949.png" width=100%></td>
+  </tr>
+</table>
 <br/>
 
 
-
+<!--
 ## File Directory
 
 <details>
@@ -219,7 +219,7 @@ Grafana & Prometheus
 </details>
 
 <br>
-
+-->
 
 ## How to run
 
