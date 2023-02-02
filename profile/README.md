@@ -19,14 +19,17 @@ Waiter
 
 ## Demo
 ### Web
-|                   가게 등록 및 로그인                |                   대기 등록 마감                  |                         가게 설명 수정                      |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="https://user-images.githubusercontent.com/106878778/215781287-7380228d-eb24-4735-a041-0f7564ab8af5.png" alt="가게 등록 및 로그인" width=70%> | <img src="https://user-images.githubusercontent.com/106878778/215781287-7380228d-eb24-4735-a041-0f7564ab8af5.png" alt="대기 등록 마감" width=70%> | <img src="https://user-images.githubusercontent.com/106878778/215781287-7380228d-eb24-4735-a041-0f7564ab8af5.png" alt="가게 설명 수정" width=70%> |
+|                   가게 등록                |                   대기 등록 마감                       |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| <img src="https://user-images.githubusercontent.com/106878778/216275253-e1d51827-d598-4a2b-a23f-834f72f35eaf.gif" alt="가게 등록 및 로그인" width="450px"> | <img src="https://user-images.githubusercontent.com/106878778/216267613-b7964521-df41-4419-93c4-d1ba3f20529c.gif" alt="가게 등록 및 로그인" width="450px"> |
 
+|                       대기 취소                   |                         가게 설명 수정                 |
+| :---------------------------------------------: | :------------------------------------------------: |
+| <img src="https://user-images.githubusercontent.com/106878778/216267613-b7964521-df41-4419-93c4-d1ba3f20529c.gif" alt="가게 등록 및 로그인" width="450px"> | <img src="https://user-images.githubusercontent.com/106878778/215781287-7380228d-eb24-4735-a041-0f7564ab8af5.png" alt="웨이팅 강제 취소" width="450px"> |
 
-|                         대기자 입장                    |                     대기자 호출                        |                         대기 취소                        |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="https://user-images.githubusercontent.com/106878778/215781287-7380228d-eb24-4735-a041-0f7564ab8af5.png" alt="대기자 입장" width=70%> | <img src="https://user-images.githubusercontent.com/106878778/215781287-7380228d-eb24-4735-a041-0f7564ab8af5.png" alt="대기자 호출" width=70%> | <img src="https://user-images.githubusercontent.com/106878778/215781287-7380228d-eb24-4735-a041-0f7564ab8af5.png" alt="웨이팅 강제 취소" width=70%> |
+|                         대기자 입장                    |                     대기자 호출                     |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| <img src="https://user-images.githubusercontent.com/106878778/215781287-7380228d-eb24-4735-a041-0f7564ab8af5.png" alt="대기자 입장" width="450px"> | <img src="https://user-images.githubusercontent.com/106878778/215781287-7380228d-eb24-4735-a041-0f7564ab8af5.png" alt="대기자 호출" width="450px"> |
 
 
 <br/>
@@ -34,9 +37,9 @@ Waiter
 ### App
 
 
-|                         회원가입 및 로그인                   |                     지도                        |                        가게 리스트                         |
+|                         회원가입                   |                     로그인                        |                        가게 리스트                         |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="https://user-images.githubusercontent.com/106878778/215781287-7380228d-eb24-4735-a041-0f7564ab8af5.png" alt="회원가입" width=70%> | <img src="https://user-images.githubusercontent.com/106878778/215781287-7380228d-eb24-4735-a041-0f7564ab8af5.png" alt="로그인" width=70%> | <img src="https://user-images.githubusercontent.com/106878778/215781287-7380228d-eb24-4735-a041-0f7564ab8af5.png" alt="마이페이지" width=70%> |
+| <img src="https://user-images.githubusercontent.com/106878778/216273076-1cb7ca8b-c079-4198-8b85-f2087d28f3a3.gif" alt="회원가입" width=100%> | <img src="https://user-images.githubusercontent.com/106878778/216272404-144d7e9c-ce4e-4574-9c69-86f18f2fc2af.gif" alt="회원가입" width=65%> | <img src="https://user-images.githubusercontent.com/106878778/216271447-8d11c5b7-8cec-471b-bf3e-9c1eefddab0c.gif" alt="회원가입" width=100%> |
 
 
 |                          웨이팅 등록                  |                     웨이팅 취소                        |                         웨이팅 조회                         |
@@ -140,6 +143,7 @@ Swagger로 API 문서를 작성하여 클라이언트와 소통하였습니다. 
 <div style="display: flex; align-items: flex-start;">
   <img src="https://camo.githubusercontent.com/8d588674b29ef309c92bf8334b879ced4ac7a158a2a71421a6cc6ccd6588e207/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d456c617374696373656172636826636f6c6f723d303035353731266c6f676f3d456c6173746963736561726368266c6f676f436f6c6f723d464646464646266c6162656c3d" >
   <img src="https://camo.githubusercontent.com/bc69581e96f608f6a632e292f0685e731c084e8ebe6a8dc53651650c7d8870f1/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4c6f67737461736826636f6c6f723d303035353731266c6f676f3d4c6f677374617368266c6f676f436f6c6f723d464646464646266c6162656c3d" >
+  <img src="https://img.shields.io/badge/Amazon RDS-2088FF?style=for-the-badge&logo=amazon-rds&logoColor=black">
 </div>
 <br/>
 
