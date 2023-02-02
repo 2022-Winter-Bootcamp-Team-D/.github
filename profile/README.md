@@ -19,9 +19,9 @@ Waiter
 
 ## Demo
 ### Web
-|                   가게 등록                |                   대기 등록 마감                       |
+|                   가게 등록                |                   로그인                       |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="https://user-images.githubusercontent.com/106878778/216275253-e1d51827-d598-4a2b-a23f-834f72f35eaf.gif" alt="가게 등록 및 로그인" width="450px"> | <img src="https://user-images.githubusercontent.com/106878778/216267613-b7964521-df41-4419-93c4-d1ba3f20529c.gif" alt="가게 등록 및 로그인" width="450px"> |
+| <img src="https://user-images.githubusercontent.com/106878778/216275253-e1d51827-d598-4a2b-a23f-834f72f35eaf.gif" alt="가게 등록 및 로그인" width="450px"> | <img src="https://user-images.githubusercontent.com/106878778/216278125-9a2b216b-5d0a-42d0-be91-24ccd6bd7774.gif" alt="가게 등록 및 로그인" width="450px"> |
 
 |                       대기 취소                   |                         가게 설명 수정                 |
 | :---------------------------------------------: | :------------------------------------------------: |
