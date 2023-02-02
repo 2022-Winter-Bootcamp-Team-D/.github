@@ -12,7 +12,6 @@ Waiter
 언제 어디서든 편하고 쉬운 웨이팅.<br/><br/>
 원격 웨이팅 앱, ‘웨이터’는 맛있는 음식을 위해 고대하는 손님들을 위한 서비스 앱입니다. <br/><br/>
 
-
 </h5>
 
 </br>
@@ -37,10 +36,11 @@ Waiter
     <td align="center">고객 로그인</td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/106878778/216275253-e1d51827-d598-4a2b-a23f-834f72f35eaf.gif" alt="가게 등록 및 회원가입" width="550px"></td>
+    <td><img src="https://user-images.githubusercontent.com/106878778/216386764-aec54739-2005-408b-93fd-96465ad34e78.gif" alt="가게 등록 및 회원가입" width="550px"></td>
     <td><img src="https://user-images.githubusercontent.com/106878778/216272404-144d7e9c-ce4e-4574-9c69-86f18f2fc2af.gif" alt="고객 로그인" width="200"></td>
   </tr>
 </table>
+
 
 <table align="center">
   <tr>
@@ -48,10 +48,11 @@ Waiter
     <td align="center">호출 알림</td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/106878778/216275253-e1d51827-d598-4a2b-a23f-834f72f35eaf.gif" alt="가게 등록 및 회원가입" width="550px"></td>
+    <td><img src="https://user-images.githubusercontent.com/106878778/216362317-b7372dbe-8757-4de9-b02c-b8cb48f86bfc.gif" alt="가게 등록 및 회원가입" width="550px"></td>
     <td><img src="https://user-images.githubusercontent.com/106878778/216339208-20b3d023-7c99-4dca-aa01-145f958266ea.gif" alt="대기자 호출" width="200"></td>
   </tr>
 </table>
+
 
 <table align="center">
   <tr>
@@ -59,10 +60,11 @@ Waiter
     <td align="center">1순위 알림</td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/106878778/216275253-e1d51827-d598-4a2b-a23f-834f72f35eaf.gif" alt="가게 등록 및 회원가입" width="550px"></td>
+    <td><img src="https://user-images.githubusercontent.com/106878778/216363246-271fc207-15d5-4bc2-b5a0-32636b639036.gif" alt="가게 등록 및 회원가입" width="550px"></td>
     <td><img src="https://user-images.githubusercontent.com/106878778/216344452-8bc40edc-9426-465c-b362-dea99f508ce7.gif" alt="대기자 호출" width="200"></td>
   </tr>
 </table>
+
 
 <table align="center">
   <tr>
@@ -70,25 +72,51 @@ Waiter
     <td align="center">취소 알림</td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/106878778/216275253-e1d51827-d598-4a2b-a23f-834f72f35eaf.gif" alt="가게 등록 및 회원가입" width="550px"></td>
+    <td><img src="https://user-images.githubusercontent.com/106878778/216365897-2aede96b-8ae7-48c0-aa49-737f1ad61ddf.gif" alt="가게 등록 및 회원가입" width="550px"></td>
     <td><img src="https://user-images.githubusercontent.com/106878778/216345590-22c84c9e-4dce-4bff-9e3e-1adf9c40865b.gif" alt="대기자 호출" width="200"></td>
   </tr>
 </table>
 
 
 <!--
-|                   가게 등록 및 회원가입               |                   고객 회원가입                       |
-| :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="https://user-images.githubusercontent.com/106878778/216275253-e1d51827-d598-4a2b-a23f-834f72f35eaf.gif" alt="가게 등록 및 회원가입" width="550px"> | <img src="https://user-images.githubusercontent.com/106878778/216273076-1cb7ca8b-c079-4198-8b85-f2087d28f3a3.gif" alt="고객 회원가입" width="200"> |
+<table align="center">
+  <tr>
+    <td align="center">가게 설명 수정</td>
+    <td align="center">수정된 내용 반영</td>
+  </tr>
+  <tr>
+    <td><img src="" alt="가게 설명 수정" width="550px"></td>
+    <td><img src="" alt="" width="200"></td>
+  </tr>
+</table>
 
-|                       점주 로그인                   |                         고객 로그인                 |
-| :---------------------------------------------: | :------------------------------------------------: |
-| <img src="https://user-images.githubusercontent.com/106878778/216275253-e1d51827-d598-4a2b-a23f-834f72f35eaf.gif" alt="가게 등록 및 회원가입" width="550px"> | <img src="https://user-images.githubusercontent.com/106878778/216272404-144d7e9c-ce4e-4574-9c69-86f18f2fc2af.gif" alt="고객 로그인" width="200"> |
 
-|                         대기자 호출                    |                     대기자 호출                     |
-| :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="https://user-images.githubusercontent.com/106878778/216275253-e1d51827-d598-4a2b-a23f-834f72f35eaf.gif" alt="가게 등록 및 회원가입" width="550px"> | <img src="https://user-images.githubusercontent.com/106878778/216339208-20b3d023-7c99-4dca-aa01-145f958266ea.gif" alt="대기자 호출" width="200"> |
+<table align="center">
+  <tr>
+    <td align="center">대기자 조회</td>
+    <td align="center">웨이팅 등록</td>
+  </tr>
+  <tr>
+    <td><img src="" alt="대기자 조회" width="550px"></td>
+    <td><img src="" alt="웨이팅 등록" width="200"></td>
+  </tr>
+</table>
+
+
+<table align="center">
+  <tr>
+    <td align="center">웨이팅 현황 조회</td>
+    <td align="center">매장 지도로 보기</td>
+  </tr>
+  <tr>
+    <td><img src="" alt="대기자 조회" width="550px"></td>
+    <td><img src="" alt="웨이팅 등록" width="200"></td>
+  </tr>
+</table>
 -->
+
+
+
 
 <br/>
 
@@ -137,6 +165,18 @@ Waiter
   <img src="https://img.shields.io/badge/reactNative-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="icon" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=black">
 </div>
+<br/>
+
+- **React**, **ReactNative**
+- **TypeScript**, **Naver Map API**
+
+
+저희 Waiter는 상업주와 소비자 모두를 대상으로하는 플랫폼형 서비스입니다. <br/>
+이에 따라 두 라이브러리간 상호보완이 잘 되고, 컴포넌트 관리가 용이한 **React**와 **ReactNative**를 채택하였습니다. <br/>
+이 과정에서 개발의 효율성을 위하여 **TypeScript**를 적용하였습니다. <br/>
+또한 사용자의 위치 현황과 주변의 인프라 정보를 수집하고자 **Naver Map API**를 적용하였습니다.<br/>
+
+
 
 <br />
 
@@ -159,6 +199,16 @@ Waiter
   <img src="https://img.shields.io/badge/gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=black">
   <img src="https://camo.githubusercontent.com/95a15266c9b093e9070410fa62c8dcba6611e79edd738e0ded7ec5b52541d6c4/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d506f737467726553514c26636f6c6f723d343136394531266c6f676f3d506f737467726553514c266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="icon" />
 </div>
+
+- **Django**, **PostgreSQL**
+- **FireBase**
+- **JWT**, **Redis**
+
+다양한 라이브러리와 클래스 매핑이 가능한 Python 기반 프레임워크인 **Django**를 사용하였습니다. <br/>
+DB로는 이와 호환성이 좋은 **PostgreSQL**를 채택하였고 WSGI를 위한 **Gunicorn**을 적용하였습니다. <br/>
+특정 안드로이드 기기에 대하여 알람을 보내주기 위해서 **FireBase Cloud Messaging** 기술을 적용하였습니다. <br/>
+로그인시 **JWT** 토큰을 적용하였으며, 해당 토큰을 관리하기 위해서 **Redis**를 적용하였습니다. <br/>
+
 
 <!--
 Django로 웹 어플리케이션 서버를 구축하였습니다. <br/>
@@ -190,13 +240,34 @@ Swagger로 API 문서를 작성하여 클라이언트와 소통하였습니다. 
 </div>
 <br/>
 
+- **NGINX**
+- **ElasticSearch**, **logstash**
+- **Amazon RDS**, **Github Actions**
+
+Reverse Proxy를 위한 **Nginx**사용하였습니다. <br/>
+또한 원하는 음식과 가게를 검색하기 위해서 검색엔진으로 **ElasticSearch**를 적용하였습니다.  <br/>
+지속적으로 변화하는 가게의 정보들의 실시간으로 연동을 해주기 위해서 <br/>
+**logstash**를 이용해서 DB의 변동사항을 **ElasticSearch**로 연동해주었습니다. <br/>
+보다 간편한 DB의 설정과 협업을 위해서 Severless DB인 **Amazon RDS**를 사용하였습니다. <br/>
+**Github Action**을 이용하여 CI/CD를 적용하였습니다. <br/>
+
+<br/>
 
 ### Monitoring
 
 <div style="display: flex; align-items: flex-start;">
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=black">
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=black">
+  <img src="https://img.shields.io/badge/node_exporter-37D100?style=for-the-badge&logoColor=black" >
 </div>
+<br/>
+
+- **Prometheus**, **Grafana**
+- **node-exporter**
+
+배포를 진행한 EC2 인스턴스의 metric 정보를 수집하고, <br/>
+통합 모니터링 환경을 위해 **Prometheus**와 **Grafana**를 사용하였습니다. <br/>
+**node-exporter**를 통해 받은 메모리, 디스크, 네트워크 사용량 및 장고 백엔드를 연결하여 request 데이터를 저장하기 위해 사용했습니다. <br/>
 
 <br/>
 
