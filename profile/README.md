@@ -265,8 +265,7 @@ Reverse Proxy를 위한 **Nginx**사용하였습니다. <br/>
 - **Prometheus**, **Grafana**
 - **node-exporter**
 
-배포를 진행한 EC2 인스턴스의 metric 정보를 수집하고, <br/>
-통합 모니터링 환경을 위해 **Prometheus**와 **Grafana**를 사용하였습니다. <br/>
+배포를 진행한 EC2 인스턴스의 metric 정보를 수집하고, 통합 모니터링 환경을 위해 **Prometheus**와 **Grafana**를 사용하였습니다. <br/>
 **node-exporter**를 통해 받은 메모리, 디스크, 네트워크 사용량 및 장고 백엔드를 연결하여 request 데이터를 저장하기 위해 사용했습니다. <br/>
 
 <br/>
