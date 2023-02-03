@@ -125,7 +125,7 @@ Waiter
 ## System Architecture
 
 <p align="middle" >
-  <img src="https://user-images.githubusercontent.com/106878778/216349631-69aab683-c1df-4ece-ad0f-6e28a38b2161.png" width=80% >
+  <img src="https://user-images.githubusercontent.com/106878778/216672026-db5e2668-802d-4118-bc1d-ba9ac8c7536d.png" width=70% >
 </p>
 
 <br/>
@@ -340,12 +340,12 @@ Grafana & Prometheus
 
 ## How to run
 
+> Clone Repository
 ```
 $ git clone https://github.com/2022-Winter-Bootcamp-Team-D/docker.git
-$ docker-compose up --build
 ```
-<!--
-> .env 파일을 만들어 환경변수를 작성해준다.
+
+> 루트 경로에 .env 파일 생성
 ```
 DPOST_ENGINE=
 POST_HOST=
@@ -357,7 +357,22 @@ DEBUG=
 EC2_HOST=
 SECRET_KEY=
 ```
--->
+
+> /backend/ 경로에 .env 파일 생성
+```
+SECRET_KEY = 
+
+POST_HOST = 
+POST_PORT = 
+POST_NAME = 
+POST_USER = 
+POST_PASSWORD = 
+```
+
+> 실행
+```
+$ docker-compose up --build
+```
 <br/>
 
 
