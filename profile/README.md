@@ -340,23 +340,12 @@ Grafana & Prometheus
 
 ## How to run
 
-### Frontend
-
-go to react repo 👉🏻 [click here !](https://github.com/2022-Winter-Bootcamp-Team-D/react-repo) <br/>
-      reactNative repo 👉🏻 [click here !](https://github.com/2022-Winter-Bootcamp-Team-D/reactNative-repo)
-
-> 프로젝트 실행
-```shell
-코드
 ```
-
-<br />
-
-### Backend
-
-go to backend repo 👉🏻 [click here !](https://github.com/2022-Winter-Bootcamp-Team-D/backend)
-
-> .env.example 을 참고하여 .env 파일에 있는 환경변수를 작성해준다.
+$ git clone https://github.com/2022-Winter-Bootcamp-Team-D/docker.git
+$ docker-compose up --build
+```
+<!--
+> .env 파일을 만들어 환경변수를 작성해준다.
 ```
 DPOST_ENGINE=
 POST_HOST=
@@ -368,7 +357,7 @@ DEBUG=
 EC2_HOST=
 SECRET_KEY=
 ```
-
+-->
 <br/>
 
 
